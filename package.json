@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Skillz4Killz/freedom#readme",
   "dependencies": {
     "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.18"
   }
 }
