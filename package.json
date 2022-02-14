@@ -1,0 +1,24 @@
+{
+  "name": "freedom",
+  "version": "1.0.0",
+  "description": "THIS LIBRARY IS MEANT FOR ME TO LEARN AND GROW AS A DEV. IT IS NOT MEANT TO BE USED BY OTHERS. IT WILL BE OPINIONATED. IF YOU DON'T LIKE SOMETHING, THEN TOO BAD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tscw": "tsc --init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skillz4Killz/freedom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skillz4Killz/freedom/issues"
+  },
+  "homepage": "https://github.com/Skillz4Killz/freedom#readme",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}
